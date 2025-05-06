@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Wel come to tailwindsnbsdkjbaskjc</h1>
+      <h1 className="text-3xl font-bold underline">Wel come to tailwindsnbsdkjbaskjc</h1>
     </>
   );
 }
